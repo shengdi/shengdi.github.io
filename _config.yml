@@ -1,5 +1,5 @@
-theme: jekyll-theme-persephone
-#remote_theme: erlzhang/jekyll-theme-persephone
+#theme: jekyll-theme-persephone
+remote_theme: erlzhang/jekyll-theme-persephone
 
 title: shengdi's blog
 description: everything
